@@ -17,3 +17,12 @@ Key features:
 * Secure uploads – CSRF protection, server‑side file‑type/size checks, and unique filenames to prevent collisions.
 * Exensible auth – ready for Django’s built‑in authentication so only logged‑in users can add, edit, or delete photos.
 
+  <img width="908" alt="image" src="https://github.com/user-attachments/assets/365b0d46-6b05-4a99-8221-26e51452b6d4" />
+
+  <img width="853" alt="image" src="https://github.com/user-attachments/assets/a8fe7c34-a031-4fd8-8334-a7da526cf665" />
+
+  <img width="877" alt="image" src="https://github.com/user-attachments/assets/c72d28e8-d0b3-49ed-81b8-81bed50a72f5" />
+
+
+
+
